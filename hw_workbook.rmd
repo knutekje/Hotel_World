@@ -7,6 +7,7 @@ output: html_document
 Hotel World INC
 
 Introduction
-Hotel World INC, are looking to boost their revenue in the off-peak season. This is a notoriously difficult period for hotels to market. Hotel World INC. wants us to gather as much info as possible about the average “off-peak” booking.
+Hotel World INC, are looking to boost their revenue in the off-peak season. This is a notoriously difficult period for hotels to market. 
+Hotel World INC. wants us to gather as much info as possible about the average “off-peak” booking.
 
 Primarily off peak is January through April, and September through November.
